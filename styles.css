@@ -1,0 +1,21 @@
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    text-align: center;
+    filter:blur(10px);
+    margin: 30px;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    position: absolute;
+    top:10px;
+}
+
+.two{
+    background: linear-gradient(pink,yellow);
+    filter:blur(25px);
+}
